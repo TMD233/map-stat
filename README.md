@@ -2,7 +2,7 @@
 
 A streamlit template for mapping applications. It can be deployed to [Streamlit Cloud](https://streamlit.io/cloud).
 
-Web App URL: <https://map-template.streamlit.app>
+Web App URL: <https://homepy-j8xn7vtsw595r7jiwx5ave.streamlit.app/>
 
 ## Instructions
 
